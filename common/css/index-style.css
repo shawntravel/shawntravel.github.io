@@ -1,0 +1,77 @@
+body {
+	font-family: Tahoma;
+	overflow-y: scroll;
+}
+
+a, a:visited {
+	text-decoration: none;
+	outline: none;
+}
+
+header {
+	width: 1000px;
+	height: 100px;
+	margin: 0 auto;
+}
+
+nav {
+	float: left;
+}
+
+nav ul{
+	list-style: none;
+}
+
+nav li{
+	float: left;
+	line-height: 100px;
+}
+
+nav a {
+	color: #2582A4;
+	padding: 10px 20px 10px 20px;
+	font-family: Trebuchet MS;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+nav a:hover {
+	color: #292929;
+}
+
+#ptnbanner {
+	width: 1000px;
+	height: 340px;
+	margin: 0 auto;
+}
+
+#ptnbanner .slides_container {
+	width: 1000px;
+	height: 340px;
+	display: none;
+}
+
+#ptnbanner .slides_container div {
+	width: 1000px;
+	height: 340px;
+	display: block;
+}
+
+article {
+	width: 1000px;
+	height: 1100px;
+	margin: 0 auto;
+}
+
+footer {
+	width: 1000px;
+	margin: 0 auto;
+	padding-top: 20px;
+	background: url(../images/footerimg.gif) repeat-x;
+}
+
+footer p {
+	font-size: 11px;
+	color: #3f3f3f;
+	text-align: center;
+}

@@ -1,0 +1,50 @@
+body {
+	font-family: Tahoma;
+}
+
+a, a:visited {
+	text-decoration: none;
+	outline: none;
+	font-family: Trebuchet MS;
+	color: #2582A4;
+}
+
+a:hover {
+	color: #00CC33;
+}
+
+h2 {
+	margin-top: 50px;
+	color: #013588;
+}
+
+h3 {
+	margin-top: 40px;
+	color: #013588;
+}
+
+p {
+	width: 820px;
+	color: #292929;
+}
+
+span {
+	font-family: Trebuchet MS;
+	font-size: 14px;
+}
+
+table,th,td{
+	border: 1px solid #292929;
+	border-collapse: collapse;
+}
+
+th{
+	padding: 10px 0 10px 0;
+	background-color: #c1c1c1;
+}
+
+td{
+	width: 300px;
+	padding: 7px 10px 7px 10px;
+	text-align: center;
+}

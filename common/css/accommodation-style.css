@@ -1,0 +1,35 @@
+body {
+	font-family: Tahoma;
+	background: url(../images/pontian-bg.jpg);
+}
+
+h2 {
+	margin-top: 50px;
+	color: #013588;
+}
+
+p {
+	width: 900px;
+	color: #292929;
+}
+
+img {
+	margin: 7px 0 7px 0;
+}
+
+table,th,td{
+	border: 1px solid #292929;
+	border-collapse: collapse;
+	margin-top: 40px;
+}
+
+th{
+	padding: 10px 0 10px 0;
+	background-color: #c1c1c1;
+}
+
+td{
+	width: 330px;
+	padding: 7px 20px 7px 20px;
+	vertical-align: top;
+}

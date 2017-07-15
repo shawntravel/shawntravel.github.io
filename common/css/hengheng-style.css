@@ -1,0 +1,25 @@
+body {
+	font-family: Tahoma;
+}
+
+h3 {
+	margin-top: 40px;
+	color: #013588;
+}
+
+p {
+	width: 880px;
+	color: #292929;
+}
+
+span {
+	width: 400px;
+	color: #292929;
+	float: right;
+	font-size: 14px;
+	margin-top: 20px;
+}
+
+img {
+	margin-top: 10px;
+}

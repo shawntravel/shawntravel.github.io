@@ -1,0 +1,54 @@
+body {
+	font-family: Tahoma;
+}
+
+h2 {
+	margin-top: 50px;
+	color: #013588;
+}
+
+p {
+	width: 940px;
+	color: #292929;
+}
+
+#contactarea {
+	width: 966px;
+	padding: 20px 0 30px 0;
+	border: 1px solid #cccccc;
+}
+
+label {
+	margin: 0 4px 0 20px;
+	font-size: 14px;
+	width: 80px;
+	display: inline-block;
+	text-align: right;
+}
+
+span {
+	margin: 0 20px 0 4px;
+	font-size: 14px;
+}
+
+#contactarea .drop_input {
+	margin-top: 10px;
+	padding: 7px 0 7px 7px;
+	font-size: 14px;
+	color: #0f2f2f;
+	width: 600px;
+	border: 1px solid #365f8d;
+	background: #f5f5f5 none repeat scroll 0 0;
+}
+
+#contactarea .drop_message {
+	margin-top: 10px;
+	padding: 7px 0 7px 7px;
+	font-family: Tahoma;
+	font-size: 14px;
+	color: #0f2f2f;
+	width: 600px;
+	height: 200px;
+	border: 1px solid #365f8d;
+	background: #f5f5f5 none repeat scroll 0 0;
+}
