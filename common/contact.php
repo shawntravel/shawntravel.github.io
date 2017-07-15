@@ -28,14 +28,14 @@ $mail_status = mail($mail_to, $subject, $body_message, $headers);
 if ($mail_status) { ?>
 	<script language="javascript" type="text/javascript">
 		alert('Your message has been sent!');
-		window.location = '../home.html';
+		window.location = 'https://shawntravel.github.io/home.html';
 	</script>
 <?php
 }}
 else { ?>
 	<script language="javascript" type="text/javascript">
 		alert('Invalid email address');
-		window.location = '../contact.html';
+		window.location = 'https://shawntravel.github.io/contact.html';
 	</script>
 <?php
 }
